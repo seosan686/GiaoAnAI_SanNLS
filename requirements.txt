@@ -4,3 +4,4 @@ python-docx
 Pillow
 pandas
 openpyxl
+python-docx
